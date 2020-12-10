@@ -8,5 +8,7 @@ public class GitTest {
             System.out.print(count + " ");
             count++;
         }
+
+        System.out.println("Ending loop...");
     }
 }
